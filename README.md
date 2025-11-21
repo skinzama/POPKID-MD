@@ -13,7 +13,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
 
 ---
-
+𝗚𝗘𝗧 𝗙𝗥𝗘𝗘 𝗕𝗢𝗧💛
 [![Get Mini Bot Here](https://img.shields.io/badge/GET%20MINI%20BOT%20HERE-%23FF512F%20%7C%20%23DD2476?style=for-the-badge&logo=rocket&logoColor=white)](https://popkid-direct-pair-version-fc79abbae43a.herokuapp.com/)
 
 ---
