@@ -7,16 +7,16 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // --- BOT CORE SETTINGS ---
-    SESSION_ID: process.env.SESSION_ID || "popkid-session",
-    PREFIX: process.env.PREFIX || ".",
+    SESSION_ID: process.env.SESSION_ID || "POPKID;;;uAMxAT5a#9Er4NzGgiAg2MJ3wb-TjRa0BJCaIF3eZ8PhziGWW91I",
+    PREFIX: process.env.PREFIX || "!",
     BOT_NAME: process.env.BOT_NAME || "POPKID-MD",
     DESCRIPTION: process.env.DESCRIPTION || "© popkid xtr bot",
     MODE: process.env.MODE || "public", // Options: public, private, inbox, group
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
     
     // --- OWNER/DEV SETTINGS ---
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
-    OWNER_NAME: process.env.OWNER_NAME || "POPKID",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "27813522157",
+    OWNER_NAME: process.env.OWNER_NAME || "✨️Kelly S Kay✨️",
     DEV: process.env.DEV || "254732297194", // Developer number
 
     // --- MESSAGING & VISIBILITY ---
@@ -44,14 +44,14 @@ module.exports = {
     // --- STATUS SETTINGS ---
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true", // Auto view statuses
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true", // Auto react on statuses
-    AUTO_STATUS_REACT_EMOJI: process.env.AUTO_STATUS_REACT_EMOJI || "❎", // Custom status reaction emoji (New)
+    AUTO_STATUS_REACT_EMOJI: process.env.AUTO_STATUS_REACT_EMOJI || "🦋", // Custom status reaction emoji (New)
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false", // Auto reply on status (Enabled)
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || ".𝗦𝗘𝗘𝗡 𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗬 𝗣𝗢𝗣𝗞𝗜𝗗 𝗫𝗧𝗥🔄", // Status reply message
     
     // --- GROUP & SECURITY ---
     ANTI_LINK: process.env.ANTI_LINK || "true",
-    ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
-    DELETE_LINKS: process.env.DELETE_LINKS || "false", // Automatic delete links without kick
+    ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
+    DELETE_LINKS: process.env.DELETE_LINKS || "true", // Automatic delete links without kick
     ANTI_BAD: process.env.ANTI_BAD || "true",
     ANTI_VV: process.env.ANTI_VV || "true", // Anti view once
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // Anti delete path
